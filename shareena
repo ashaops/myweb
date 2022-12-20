@@ -2,6 +2,7 @@ maven
 tomcat
 sonarqube
 nexus
+<<<<<<< HEAD
 jenkins 
 asha 
 reddy
@@ -9,3 +10,6 @@ nat
 s3
 sreedhar
 supraja
+=======
+asha
+>>>>>>> 193de9892a95d0b8f8b85edcf14be36ee12568a6
